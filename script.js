@@ -39,10 +39,10 @@ const SETTINGS = {
 
 // Object that contain the audio files used in the game
 const AUDIO = {
-    PADDLE_BALL_COLLSION: new Audio("/audio/paddle-ball-collision.wav"),
-    SCORE: new Audio("/audio/score.wav"),
-    WIN: new Audio("/audio/winner.wav"),
-    GAME_OVER: new Audio("/audio/game-over.wav")
+    PADDLE_BALL_COLLSION: new Audio("./audio/paddle-ball-collision.wav"),
+    SCORE: new Audio("./audio/score.wav"),
+    WIN: new Audio("./audio/winner.wav"),
+    GAME_OVER: new Audio("./audio/game-over.wav")
 };
 
 // Enum that represent the direction of the paddles and the ball
