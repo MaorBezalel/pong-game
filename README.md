@@ -7,7 +7,6 @@
 - [Built Using](#built-using)
 - [Features](#features)
 - [How to Play](#how-to-play)
-- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Preview
