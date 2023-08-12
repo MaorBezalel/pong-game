@@ -19,7 +19,7 @@ This project, the "Pong Game", was developed as a frontend practice exercise to 
 
 ## Built Using
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,vscode&theme=light)](https://skillicons.dev)
 
 ## Features
 
